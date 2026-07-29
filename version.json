@@ -1,5 +1,14 @@
 {
-  "windows_version": 1.0.2
-  "linux_version": 1.0.2
-  "apple_version": 1.0.2
+  "windows": {
+    "version": "1.0.2",
+    "mandatory": true
+  },
+  "mac": {
+    "version": "1.0.2",
+    "mandatory": true
+  },
+  "linux": {
+    "version": "1.0.2",
+    "mandatory": true
+  }
 }
